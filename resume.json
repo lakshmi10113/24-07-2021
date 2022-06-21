@@ -14,13 +14,13 @@
       }
     },
     "work": [{
-      "name": "Palmate",
-      "position": "Full Stack Web Developer",
+      "name": "Global Invisions",
+      "position": "Full Stack Developer",
       "startDate": "2021-06-05",
       "endDate": "current",
       "summary": "Shopping portal",
       "highlights": [
-        "Built Admin Panel-PEM for a shopping portal"
+        "Built Admin Panel for a shopping portal"
       ]
     }],
     "education": [{
@@ -35,8 +35,8 @@
     "certificates": [{
       "name": "MERN Stack Development",
       "date": "2021-06",
-      "issuer": "Guvi",
-      "url": "https://certificate.com",
+      "issuer": "yyy",
+      "url": "yyy",
     }],
     "skills": [{
       "name": "Web Development",
